@@ -1,0 +1,7 @@
+Z:\WEB SERVICES\LAB\ServiceApplicationOne\ServiceApplicationOne\bin\ServiceApplicationOne.dll.config
+Z:\WEB SERVICES\LAB\ServiceApplicationOne\ServiceApplicationOne\bin\ServiceApplicationOne.dll
+Z:\WEB SERVICES\LAB\ServiceApplicationOne\ServiceApplicationOne\bin\ServiceApplicationOne.pdb
+Z:\WEB SERVICES\LAB\ServiceApplicationOne\ServiceApplicationOne\obj\Debug\ServiceApplicationOne.csproj.AssemblyReference.cache
+Z:\WEB SERVICES\LAB\ServiceApplicationOne\ServiceApplicationOne\obj\Debug\ServiceApplicationOne.csproj.CoreCompileInputs.cache
+Z:\WEB SERVICES\LAB\ServiceApplicationOne\ServiceApplicationOne\obj\Debug\ServiceApplicationOne.dll
+Z:\WEB SERVICES\LAB\ServiceApplicationOne\ServiceApplicationOne\obj\Debug\ServiceApplicationOne.pdb

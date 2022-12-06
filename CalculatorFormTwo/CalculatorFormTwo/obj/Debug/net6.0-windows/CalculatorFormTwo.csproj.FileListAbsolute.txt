@@ -1,0 +1,17 @@
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\bin\Debug\net6.0-windows\CalculatorFormTwo.exe
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\bin\Debug\net6.0-windows\CalculatorFormTwo.deps.json
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\bin\Debug\net6.0-windows\CalculatorFormTwo.runtimeconfig.json
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\bin\Debug\net6.0-windows\CalculatorFormTwo.dll
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\bin\Debug\net6.0-windows\CalculatorFormTwo.pdb
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\CalculatorFormTwo.csproj.AssemblyReference.cache
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\CalculatorFormTwo.Form1.resources
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\CalculatorFormTwo.csproj.GenerateResource.cache
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\CalculatorFormTwo.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\CalculatorFormTwo.AssemblyInfoInputs.cache
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\CalculatorFormTwo.AssemblyInfo.cs
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\CalculatorFormTwo.csproj.CoreCompileInputs.cache
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\CalculatorFormTwo.dll
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\refint\CalculatorFormTwo.dll
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\CalculatorFormTwo.pdb
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\CalculatorFormTwo.genruntimeconfig.cache
+Z:\WEB SERVICES\LAB\CalculatorFormTwo\CalculatorFormTwo\obj\Debug\net6.0-windows\ref\CalculatorFormTwo.dll

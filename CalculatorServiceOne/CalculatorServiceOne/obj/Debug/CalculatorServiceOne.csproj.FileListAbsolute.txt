@@ -1,0 +1,7 @@
+Z:\WEB SERVICES\LAB\CalculatorServiceOne\CalculatorServiceOne\obj\Debug\CalculatorServiceOne.csproj.AssemblyReference.cache
+Z:\WEB SERVICES\LAB\CalculatorServiceOne\CalculatorServiceOne\obj\Debug\CalculatorServiceOne.csproj.CoreCompileInputs.cache
+Z:\WEB SERVICES\LAB\CalculatorServiceOne\CalculatorServiceOne\bin\CalculatorServiceOne.dll.config
+Z:\WEB SERVICES\LAB\CalculatorServiceOne\CalculatorServiceOne\bin\CalculatorServiceOne.dll
+Z:\WEB SERVICES\LAB\CalculatorServiceOne\CalculatorServiceOne\bin\CalculatorServiceOne.pdb
+Z:\WEB SERVICES\LAB\CalculatorServiceOne\CalculatorServiceOne\obj\Debug\CalculatorServiceOne.dll
+Z:\WEB SERVICES\LAB\CalculatorServiceOne\CalculatorServiceOne\obj\Debug\CalculatorServiceOne.pdb
