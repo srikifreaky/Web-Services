@@ -1,0 +1,15 @@
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\bin\Debug\net6.0\CalculatorThree.exe
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\bin\Debug\net6.0\CalculatorThree.deps.json
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\bin\Debug\net6.0\CalculatorThree.runtimeconfig.json
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\bin\Debug\net6.0\CalculatorThree.dll
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\bin\Debug\net6.0\CalculatorThree.pdb
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\obj\Debug\net6.0\CalculatorThree.csproj.AssemblyReference.cache
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\obj\Debug\net6.0\CalculatorThree.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\obj\Debug\net6.0\CalculatorThree.AssemblyInfoInputs.cache
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\obj\Debug\net6.0\CalculatorThree.AssemblyInfo.cs
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\obj\Debug\net6.0\CalculatorThree.csproj.CoreCompileInputs.cache
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\obj\Debug\net6.0\CalculatorThree.dll
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\obj\Debug\net6.0\refint\CalculatorThree.dll
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\obj\Debug\net6.0\CalculatorThree.pdb
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\obj\Debug\net6.0\CalculatorThree.genruntimeconfig.cache
+Z:\WEB SERVICES\LAB\CalculatorThree\CalculatorThree\obj\Debug\net6.0\ref\CalculatorThree.dll

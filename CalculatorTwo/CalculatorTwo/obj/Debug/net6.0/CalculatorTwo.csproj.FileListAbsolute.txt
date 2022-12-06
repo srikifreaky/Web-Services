@@ -1,0 +1,15 @@
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\bin\Debug\net6.0\CalculatorTwo.exe
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\bin\Debug\net6.0\CalculatorTwo.deps.json
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\bin\Debug\net6.0\CalculatorTwo.runtimeconfig.json
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\bin\Debug\net6.0\CalculatorTwo.dll
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\bin\Debug\net6.0\CalculatorTwo.pdb
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\obj\Debug\net6.0\CalculatorTwo.csproj.AssemblyReference.cache
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\obj\Debug\net6.0\CalculatorTwo.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\obj\Debug\net6.0\CalculatorTwo.AssemblyInfoInputs.cache
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\obj\Debug\net6.0\CalculatorTwo.AssemblyInfo.cs
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\obj\Debug\net6.0\CalculatorTwo.csproj.CoreCompileInputs.cache
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\obj\Debug\net6.0\CalculatorTwo.dll
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\obj\Debug\net6.0\refint\CalculatorTwo.dll
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\obj\Debug\net6.0\CalculatorTwo.pdb
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\obj\Debug\net6.0\CalculatorTwo.genruntimeconfig.cache
+Z:\WEB SERVICES\LAB\CalculatorTwo\CalculatorTwo\obj\Debug\net6.0\ref\CalculatorTwo.dll
