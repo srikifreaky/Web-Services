@@ -1,0 +1,15 @@
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\bin\Debug\net6.0\CalculatorOne.exe
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\bin\Debug\net6.0\CalculatorOne.deps.json
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\bin\Debug\net6.0\CalculatorOne.runtimeconfig.json
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\bin\Debug\net6.0\CalculatorOne.dll
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\bin\Debug\net6.0\CalculatorOne.pdb
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\obj\Debug\net6.0\CalculatorOne.csproj.AssemblyReference.cache
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\obj\Debug\net6.0\CalculatorOne.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\obj\Debug\net6.0\CalculatorOne.AssemblyInfoInputs.cache
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\obj\Debug\net6.0\CalculatorOne.AssemblyInfo.cs
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\obj\Debug\net6.0\CalculatorOne.csproj.CoreCompileInputs.cache
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\obj\Debug\net6.0\CalculatorOne.dll
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\obj\Debug\net6.0\refint\CalculatorOne.dll
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\obj\Debug\net6.0\CalculatorOne.pdb
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\obj\Debug\net6.0\CalculatorOne.genruntimeconfig.cache
+Z:\WEB SERVICES\LAB\CalculatorOne\CalculatorOne\obj\Debug\net6.0\ref\CalculatorOne.dll
