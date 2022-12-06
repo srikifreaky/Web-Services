@@ -1,0 +1,15 @@
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\bin\Debug\net6.0\TemperatureConvertor.exe
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\bin\Debug\net6.0\TemperatureConvertor.deps.json
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\bin\Debug\net6.0\TemperatureConvertor.runtimeconfig.json
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\bin\Debug\net6.0\TemperatureConvertor.dll
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\bin\Debug\net6.0\TemperatureConvertor.pdb
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\obj\Debug\net6.0\TemperatureConvertor.csproj.AssemblyReference.cache
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\obj\Debug\net6.0\TemperatureConvertor.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\obj\Debug\net6.0\TemperatureConvertor.AssemblyInfoInputs.cache
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\obj\Debug\net6.0\TemperatureConvertor.AssemblyInfo.cs
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\obj\Debug\net6.0\TemperatureConvertor.csproj.CoreCompileInputs.cache
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\obj\Debug\net6.0\TemperatureConvertor.dll
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\obj\Debug\net6.0\refint\TemperatureConvertor.dll
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\obj\Debug\net6.0\TemperatureConvertor.pdb
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\obj\Debug\net6.0\TemperatureConvertor.genruntimeconfig.cache
+Z:\WEB SERVICES\LAB\TemperatureConvertor\TemperatureConvertor\obj\Debug\net6.0\ref\TemperatureConvertor.dll
